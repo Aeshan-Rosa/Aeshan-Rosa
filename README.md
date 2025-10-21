@@ -31,11 +31,29 @@ I aspire to become a **Software Engineer** ✈️ and a **Game Engineer** 🎮, 
 
 ---
 
-## ⚔️ Current Quests
-- 🚌 Developing a **Bus Rescheduling & Optimization System** using Spring Boot + React  
-- 🧠 Building **AI Agents** to assist users and automate tasks  
-- 🎵 Running **Piano House of Sri Lanka** and exploring creative tech × music  
-- 🌊 Designing interactive, story-driven websites like **SDG Life Below Water**
+⚔️ Current Quests
+
+🚌 Bus Rescheduling System – Built with Spring Boot + React, handles real-time bus breakdowns, adaptive rescheduling, and optimized trip allocation.
+🤖 AI Assistants – Created smart agents to guide non-technical users and automate tasks like complaints and scheduling.
+💾 Smart Inventory Manager – Java + MySQL system for tracking buyers, workers, and commissions with automated reports.
+🌐 Creative Web & Mobile Projects –
+UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Below Water (animated SDG site).
+🧩 Open Source Contributions – Contributed to WSO2 Identity Server Docs, adding missing OIDC DCR guides and improving structure.
+🎮 Game & App Engineering – Exploring Unity, C#, and AI-powered gameplay to merge creativity with logic.
+🚀 Learning & Research – Expanding expertise in AI, ML, MLOps, and full-stack development to build impactful real-world systems.
+
+---
+<p align="center">░▒▓██████████████████████████████████▓▒░</p>
+
+## 🏷️ Badges
+
+<p align="center">
+  <a href="https://holopin.io/@aeshanrosa" target="_blank">
+    <img src="https://holopin.me/aeshanrosa" alt="Holopin badges" width="60%" />
+  </a>
+</p>
+
+<p align="center">░▒▓██████████████████████████████████▓▒░</p>
 
 ---
 
@@ -59,9 +77,29 @@ I aspire to become a **Software Engineer** ✈️ and a **Game Engineer** 🎮, 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/aeshan-rosa-8383212a3)
-- 🌐 Portfolio: *Still in the works*
-- ✉️ **aeshaneruditharosa@gmail.com**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aeshan-rosa-8383212a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/19r3V7PYMu/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <a href="https://www.instagram.com/aeshan_rosa?igsh=MWNocmR0MWp6enQxdQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://x.com/aeshanr?s=21&t=EKcH3-qAZGp9xkA7HUc5nQ" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+
+  <a href="mailto:aeshaneruditharosa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
