@@ -57,6 +57,7 @@ I aspire to become a **Software Engineer** ✈️ and a **Game Engineer** 🎮, 
   <img src="https://raw.githubusercontent.com/Aeshan-Rosa/Aeshan-Rosa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+
 > 🧩 *(Enable the GitHub Action below once you fork or create the repo.)*
 
 ---
