@@ -31,15 +31,21 @@ I aspire to become a **Software Engineer** ✈️ and a **Game Engineer** 🎮, 
 
 ---
 
-⚔️ Current Quests
+## ⚔️ Current Quests
 
 🚌 Bus Rescheduling System – Built with Spring Boot + React, handles real-time bus breakdowns, adaptive rescheduling, and optimized trip allocation.
+
 🤖 AI Assistants – Created smart agents to guide non-technical users and automate tasks like complaints and scheduling.
+
 💾 Smart Inventory Manager – Java + MySQL system for tracking buyers, workers, and commissions with automated reports.
+
 🌐 Creative Web & Mobile Projects –
 UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Below Water (animated SDG site).
+
 🧩 Open Source Contributions – Contributed to WSO2 Identity Server Docs, adding missing OIDC DCR guides and improving structure.
+
 🎮 Game & App Engineering – Exploring Unity, C#, and AI-powered gameplay to merge creativity with logic.
+
 🚀 Learning & Research – Expanding expertise in AI, ML, MLOps, and full-stack development to build impactful real-world systems.
 
 ---
