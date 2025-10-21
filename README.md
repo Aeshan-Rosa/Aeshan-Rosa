@@ -1,8 +1,7 @@
 <!-- 🔮 Animated banner -->
 <p align="center">
-  <img src="hero.gif" width="100%" alt="Animated retro arcade banner" />
+  <img src="./art/hero.gif" width="100%" alt="Animated retro arcade banner" />
 </p>
-
 <h1 align="center">💻 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
