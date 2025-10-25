@@ -62,7 +62,7 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 
 <p align="center">
   <a href="https://holopin.io/@aeshanrosa" target="_blank">
-    <img src="https://holopin.me/aeshanrosa" alt="Holopin badges" width="60%" />
+    <img src="https://holopin.me/aeshanrosa" alt="Holopin badges" width="80%" />
   </a>
 </p>
 
@@ -81,12 +81,6 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshan-Rosa&layout=compact&theme=radical&title_color=00FFFF&text_color=cacaca&bg_color=000000&hide_border=true" height="160"/>
-</p>
-
-<!-- 🧠 CONTRIBUTION AND TROPHY ZONE -->
-<h3 align="center">🏆 Achievements & Power-Ups</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aeshan-Rosa&theme=radical&no-bg=true&no-frame=true&row=1&column=7" width="95%"/>
 </p>
 
 
