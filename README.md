@@ -106,7 +106,7 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 <!-- 🕹️ END PANEL -->
 <h3 align="center">👾 Continue Your Quest...</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY5a3ZpZXN6dmhlc2YzZXJmbjNzcXFrbXd2OGtwYmVjNmZ1bTFsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY5a3ZpZXN6dmhlc2YzZXJmbjNzcXFrbXd2OGtwYmVjNmZ1bTFsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="150"/>
 </p>
 
 ---
