@@ -71,13 +71,42 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 ---
 
 ## 📟 GitHub Stats
+<!-- 🕹️ GITHUB STATS – NEON ARCADE STYLE -->
+<h2 align="center">🎮 Player Stats: <span style="color:#00FFFF;">Aeshan Rosa</span></h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeshan-Rosa&show_icons=true&theme=radical&title_color=00FFFF&text_color=cacaca&icon_color=8F00FF&bg_color=000000&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aeshan-Rosa&theme=radical&background=000000&border=000000&ring=8F00FF&fire=00FFFF&currStreakLabel=00FFFF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aeshan-Rosa&show_icons=true&theme=radical&title_color=00FFFF&text_color=cacaca&icon_color=8F00FF&bg_color=000000&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aeshan-Rosa&theme=radical&background=000000&border=000000&ring=8F00FF&fire=00FFFF&currStreakLabel=00FFFF" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshan-Rosa&layout=compact&theme=radical&title_color=00FFFF&text_color=cacaca&bg_color=000000&hide_border=true" height="160"/>
+</p>
+
+<!-- 🧠 CONTRIBUTION AND TROPHY ZONE -->
+<h3 align="center">🏆 Achievements & Power-Ups</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aeshan-Rosa&theme=radical&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Followers,Repositories,Stars" width="90%"/>
+</p>
+
+<!-- ⚡ ACTIVITY GRAPH -->
+<h3 align="center">⚡ Activity Timeline</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshan-Rosa&bg_color=000000&color=00FFFF&line=8F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<!-- 🧩 EXTRA GAME ELEMENTS -->
+<h3 align="center">💾 XP Dashboard</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aeshan-Rosa&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Aeshan-Rosa?label=Followers&style=for-the-badge&color=8F00FF&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Aeshan-Rosa?label=Total%20Stars&style=for-the-badge&color=00FFFF"/>
+</p>
+
+<!-- 🕹️ END PANEL -->
+<h3 align="center">👾 Continue Your Quest...</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY5a3ZpZXN6dmhlc2YzZXJmbjNzcXFrbXd2OGtwYmVjNmZ1bTFsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="220"/>
 </p>
 
 ---
