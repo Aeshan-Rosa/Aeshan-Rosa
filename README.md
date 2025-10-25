@@ -12,15 +12,113 @@
 
 <p align="center">░▒▓██████████████████████████████████▓▒░</p>
 
-## 👋 About Me
+<!-- === NEON CONSOLE x GLOW CARD – ABOUT ME === -->
+<div align="center" style="
+  border: 2px solid #8F00FF;
+  border-radius: 18px;
+  padding: 22px 20px;
+  background: linear-gradient(145deg, #000000 0%, #0a0010 60%, #150022 100%);
+  box-shadow: 0 0 18px #8F00FF, 0 0 36px rgba(143,0,255,0.35), inset 0 0 18px rgba(0,255,255,0.05);
+  max-width: 920px;
+  margin: 0 auto;
+">
 
-Hey there! I’m Aeshan Rosa, a dedicated Computer Science student 🚀 with a deep passion for technology, creativity, and innovation. I thrive on transforming ideas into reality through code, design, and logic, crafting projects that not only work but make a real impact.
+  <h2 style="
+    color:#00FFFF;
+    font-weight:800;
+    letter-spacing:1.5px;
+    margin: 6px 0 14px 0;
+    text-shadow: 0 0 6px #00FFFF, 0 0 14px rgba(0,255,255,0.5);
+  ">👋 About Me</h2>
 
-💡 My interests span across software engineering, game development, and AI-driven systems, where I constantly explore new tools, frameworks, and creative problem-solving methods. I love diving deep into backend architectures, building intuitive user interfaces, and experimenting with interactive and immersive digital experiences.
+  <!-- Neon Console Header -->
+  <div style="
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    color:#c9f7ff;
+    background: radial-gradient(1200px 240px at 50% -40%, rgba(0,255,255,0.12), transparent 50%) , #020005;
+    border:1px solid rgba(0,255,255,0.25);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin: 0 6px 18px 6px;
+    box-shadow: inset 0 0 14px rgba(0,255,255,0.08), 0 0 10px rgba(0,255,255,0.25);
+  ">
+<pre style="margin:0; white-space:pre-wrap; text-align:left;">
+🎮 <b>System Booting</b>: <span style="color:#00FFFF;">ABOUT_ME</span>
+────────────────────────────────────────────────────────
+🧠 <b>Name</b>: <span style="color:#ffffff;">Aeshan Rosa</span>
+💻 <b>Role</b>: <span style="color:#ffffff;">Computer Science Student</span>
+⚡ <b>Mode</b>: <span style="color:#8F00FF;">Creative · Technical · Curious</span>
+────────────────────────────────────────────────────────
+</pre>
+  </div>
 
-🎯 My ultimate goal is to become both a Software Engineer ✈️ who builds scalable, reliable systems and a Game Engineer 🎮 who brings imagination to life through engaging gameplay and meaningful storytelling.
+  <!-- Main Text (your original content, styled) -->
+  <div style="
+    color:#cacaca;
+    line-height:1.7;
+    text-align:left;
+    padding: 0 12px;
+    max-width: 820px;
+  ">
+    <p>
+      Hey there! I’m <b>Aeshan Rosa</b>, a dedicated <b>Computer Science student</b> 🚀 with a deep passion for technology, creativity, and innovation.
+      I thrive on transforming ideas into reality through code, design, and logic, crafting projects that not only work but make a real impact.
+    </p>
 
-When I’m not coding, you’ll often find me learning about emerging tech, brainstorming project ideas, or fine-tuning my creative side through music, design, and leadership initiatives.
+    <p>
+      💡 My interests span across <b>software engineering</b>, <b>game development</b>, and <b>AI-driven systems</b>, where I constantly explore new tools, frameworks, and creative problem-solving methods.
+      I love diving deep into backend architectures, building intuitive user interfaces, and experimenting with interactive and immersive digital experiences.
+    </p>
+
+    <p>
+      🎯 My ultimate goal is to become both a <b>Software Engineer ✈️</b> who builds scalable, reliable systems and a <b>Game Engineer 🎮</b> who brings imagination to life through engaging gameplay and meaningful storytelling.
+    </p>
+
+    <p>
+      When I’m not coding, you’ll often find me learning about emerging tech, brainstorming project ideas, or fine-tuning my creative side through music, design, and leadership initiatives.
+    </p>
+  </div>
+
+  <!-- Neon Divider -->
+  <div style="
+    height:2px;
+    width:88%;
+    margin: 12px auto 10px auto;
+    background: linear-gradient(90deg, transparent, #00FFFF, #8F00FF, transparent);
+    box-shadow: 0 0 10px #00FFFF, 0 0 18px rgba(143,0,255,0.6);
+  "></div>
+
+  <!-- Footer Console Badges -->
+  <div style="display:inline-flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:6px;">
+    <span style="
+      border:1px solid rgba(0,255,255,0.35);
+      padding:6px 10px; border-radius:10px; color:#c9f7ff;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      box-shadow: inset 0 0 10px rgba(0,255,255,0.08);
+    ">🧩 Problem Solver</span>
+    <span style="
+      border:1px solid rgba(143,0,255,0.45);
+      padding:6px 10px; border-radius:10px; color:#e9d7ff;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      box-shadow: inset 0 0 10px rgba(143,0,255,0.12);
+    ">🎨 Creative Coder</span>
+    <span style="
+      border:1px solid rgba(0,255,255,0.35);
+      padding:6px 10px; border-radius:10px; color:#c9f7ff;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      box-shadow: inset 0 0 10px rgba(0,255,255,0.08);
+    ">🧠 AI & Backend</span>
+    <span style="
+      border:1px solid rgba(143,0,255,0.45);
+      padding:6px 10px; border-radius:10px; color:#e9d7ff;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      box-shadow: inset 0 0 10px rgba(143,0,255,0.12);
+    ">🎮 Game Dev</span>
+  </div>
+
+</div>
+<!-- === / END NEON CONSOLE x GLOW CARD === -->
+
 
 ---
 
