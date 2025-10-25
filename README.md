@@ -86,8 +86,9 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 <!-- 🧠 CONTRIBUTION AND TROPHY ZONE -->
 <h3 align="center">🏆 Achievements & Power-Ups</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aeshan-Rosa&theme=radical&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Followers,Repositories,Stars" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aeshan-Rosa&theme=radical&no-bg=true&no-frame=true&row=1&column=7" width="95%"/>
 </p>
+
 
 <!-- ⚡ ACTIVITY GRAPH -->
 <h3 align="center">⚡ Activity Timeline</h3>
