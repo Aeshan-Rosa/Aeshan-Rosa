@@ -92,7 +92,7 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 <!-- ⚡ ACTIVITY GRAPH -->
 <h3 align="center">⚡ Activity Timeline</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshan-Rosa&bg_color=000000&color=00FFFF&line=8F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshan-Rosa&bg_color=000000&color=00FFFF&line=8F00FF&point=FFFFFF&area=true&hide_border=true" width="60%"/>
 </p>
 
 <!-- 🧩 EXTRA GAME ELEMENTS -->
