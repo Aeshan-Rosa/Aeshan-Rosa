@@ -109,13 +109,27 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 <h2 align="center">🎮 Player Stats: <span style="color:#00FFFF;">Aeshan Rosa</span></h2>
 
 <p align="center">
-  <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="110px" height="140px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeshan-Rosa&show_icons=true&theme=radical&title_color=00FFFF&text_color=cacaca&icon_color=8F00FF&bg_color=000000&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aeshan-Rosa&theme=radical&background=000000&border=000000&ring=8F00FF&fire=00FFFF&currStreakLabel=00FFFF" height="165"/>
-
-
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="120" valign="middle">
+        <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="110px" height="140px" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aeshan-Rosa&show_icons=true&theme=radical&title_color=00FFFF&text_color=cacaca&icon_color=8F00FF&bg_color=000000&hide_border=true&rank_icon=github" height="165"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aeshan-Rosa&theme=radical&background=000000&border=000000&ring=8F00FF&fire=00FFFF&currStreakLabel=00FFFF" height="165"/>
+      </td>
+      <td align="center" width="120" valign="middle">
+        <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="110px" height="140px" />
+      </td>
+    </tr>
+  </table>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshan-Rosa&layout=compact&theme=radical&title_color=00FFFF&text_color=cacaca&bg_color=000000&hide_border=true" height="160"/>
+</p>
+
+
 
 <br/><br/>
 
