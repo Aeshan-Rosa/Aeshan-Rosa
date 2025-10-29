@@ -32,13 +32,36 @@
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0ff1ce?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-5B0FF5?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8F00FF?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge&logo=csharp&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-5B0FF5?style=for-the-badge&logo=springboot&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8F00FF?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <!-- Programming Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-0ff1ce?style=for-the-badge&logo=python&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="Java" src="https://img.shields.io/badge/Java-5B0FF5?style=for-the-badge&logo=openjdk&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8F00FF?style=for-the-badge&logo=javascript&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge&logo=csharp&logoColor=1a1a1a&border_radius=12&size=large">
+
+  <!-- Frameworks -->
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-5B0FF5?style=for-the-badge&logo=springboot&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="React" src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-8F00FF?style=for-the-badge&logo=node.js&logoColor=white&border_radius=12&size=large">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-5B0FF5?style=for-the-badge&logo=express&logoColor=white&border_radius=12&size=large">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0ff1ce?style=for-the-badge&logo=react&logoColor=1a1a1a&border_radius=12&size=large">
+
+  <!-- Databases & Tools -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8F00FF?style=for-the-badge&logo=mysql&logoColor=white&border_radius=12&size=large">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-5B0FF5?style=for-the-badge&logo=mongodb&logoColor=white&border_radius=12&size=large">
+
+  <!-- DevOps & Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/GIT-0ff1ce?style=for-the-badge&logo=git&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-5B0FF5?style=for-the-badge&logo=github&logoColor=white&border_radius=12&size=large">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-8F00FF?style=for-the-badge&logo=docker&logoColor=white&border_radius=12&size=large">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-00FFFF?style=for-the-badge&logo=figma&logoColor=1a1a1a&border_radius=12&size=large">
+
+  <!-- AI & ML -->
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF7A00?style=for-the-badge&logo=tensorflow&logoColor=1a1a1a&border_radius=12&size=large">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5B0FF5?style=for-the-badge&logo=opencv&logoColor=white&border_radius=12&size=large">
+
 </p>
 
 ---
