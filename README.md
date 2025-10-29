@@ -98,7 +98,7 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 
 
 <p align="center">
-  <img src="art/IMG_1620.GIF" alt="Three Spider-Men pointing at each other" width="640">
+  <img src="art/IMG_1620.GIF" alt="Three Spider-Men pointing at each other" width="400">
 </p>
 
 
