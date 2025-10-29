@@ -15,7 +15,7 @@
 ---
 
 <div align="center" style="border: 2px solid #8F00FF; border-radius: 15px; padding: 20px; background: linear-gradient(145deg,#000000,#1a001f); box-shadow: 0 0 20px #8F00FF;">
-  <h2 style="color:#00FFFF;">👋 About Me</h2>
+  <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Aeshan Rosa </h1>
   <p style="color:#cacaca;">
   Hey there! I’m <b>Aeshan Rosa</b>, a dedicated Computer Science student 🚀 with a deep passion for technology, creativity, and innovation.<br><br>
   I thrive on transforming ideas into reality through code, design, and logic, crafting projects that not only work but make a real impact.<br><br>
