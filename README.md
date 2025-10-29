@@ -96,7 +96,12 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 
 <p align="center">░▒▓██████████████████████████████████▓▒░</p>
 
----
+
+<p align="center">
+  <img src="assets/spidey-pointing.gif" alt="Three Spider-Men pointing at each other" width="640">
+</p>
+
+
 
 ## 📟 GitHub Stats
 <!-- 🕹️ GITHUB STATS – NEON ARCADE STYLE -->
