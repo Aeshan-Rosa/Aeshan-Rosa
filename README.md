@@ -90,7 +90,7 @@ UpSpring (Down Syndrome support), Streaky (habit app with streaks), and Life Bel
 
 <p align="center">
   <a href="https://holopin.io/@aeshanrosa" target="_blank">
-    <img src="https://holopin.me/aeshanrosa" alt="Holopin badges" width="82%" />
+    <img src="https://holopin.me/aeshanrosa" alt="Holopin badges" width="92%" />
   </a>
 </p>
 
