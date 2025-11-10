@@ -8,6 +8,7 @@
 <p align="center">
   <samp>PRESS START TO ENTER · INSERT COIN</samp><br/>
   <samp>CREATING · CODING · LEVELING UP</samp>
+  <samp>EATING · SLEEPING · CODING</samp>
 </p>
 
 <p align="center">░▒▓██████████████████████████████████▓▒░</p>
