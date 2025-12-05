@@ -21,7 +21,7 @@
   Hey there! I’m <b>Aeshan Rosa</b>, a dedicated Computer Science student 🚀 with a deep passion for technology, creativity, and innovation.<br><br>
   I thrive on transforming ideas into reality through code, design, and logic, crafting projects that not only work but make a real impact.<br><br>
   💡 My interests span across software engineering, game development, and AI-driven systems, where I constantly explore new tools, frameworks, and creative problem-solving methods.<br><br>
-  🎯 My ultimate goal is to become both a Software Engineer ✈️ who builds scalable, reliable systems and a Game Engineer 🎮 who brings imagination to life through engaging gameplay and meaningful storytelling.<br><br>
+  🎯 My ultimate goal is to become both a Software Engineer  who builds scalable, reliable systems and a Game Engineer 🎮 who brings imagination to life through engaging gameplay and meaningful storytelling.<br><br>
   When I’m not coding, you’ll often find me learning about emerging tech, brainstorming project ideas, or fine-tuning my creative side through music, design, and leadership initiatives.
   </p>
 </div>
