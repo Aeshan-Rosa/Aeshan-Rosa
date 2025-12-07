@@ -71,7 +71,7 @@
 
 🚌 Bus Rescheduling System – Built with Spring Boot + React, handles real-time bus breakdowns, adaptive rescheduling, and optimized trip allocation.
 
-🤖 AI Assistants – Created smart agents to guide non-technical users and automate tasks like complaints and scheduling.
+🤖 AI Assistants – Created smart agents to guide non-technical users and automate tasks like complaints, scheduling.
 
 💾 Smart Inventory Manager – Java + MySQL system for tracking buyers, workers, and commissions with automated reports.
 
