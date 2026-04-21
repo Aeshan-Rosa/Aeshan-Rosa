@@ -65,6 +65,89 @@
 
 </p>
 
+# 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,html,css,react,nodejs,express,spring,mysql,postgres,docker,aws,git,github,vscode,idea,visualstudio,linux" />
+</p>
+
+---
+
+## 💻 Languages & Core
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=purple" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</p>
+
+---
+
+## 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20EC2-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 🤖 AI / Computer Vision
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=python&logoColor=yellow" />
+</p>
+
+---
+
+## 🧪 Tools & Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22c3ff" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-111827?style=for-the-badge&logo=visualstudio&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D6" />
+</p>
+
+---
+
+## ⚡ Specializations
+- 🚍 Intelligent Transport Systems (Bus Scheduling & Optimization)  
+- 🤖 AI-powered Monitoring Systems (CrowdEye)  
+- 🌐 Full-Stack Development (React + Spring Boot)  
+- 📡 IoT Systems (Edge Devices + Sensors + Real-time Data)  
+- 🔐 Secure API Design & Role-Based Systems  
+
 ---
 
 ## ⚔️ Current Quests
